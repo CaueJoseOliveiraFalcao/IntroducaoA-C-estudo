@@ -1,0 +1,15 @@
+introcução a C 
+
+pensamento computacional = propoe uma solução para um determinado
+problema que o computqador possa executar
+       
+       Decomposição = Dividir problema incial em partes menores
+
+       Reconhecimento de padroes = ver se ja tem uma solução conhecida 
+
+       Abstrações = Concentar a atenção no que relamnete e importante 
+
+       Algoritimos = procedimento para a resolção dos problemas 
+
+Fluxograma = representação grafica de um algoritmo 
+
