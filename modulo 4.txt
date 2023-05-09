@@ -1,0 +1,9 @@
+estrutura de decisao 
+
+exempli em C mesmo que em js 
+
+
+int Flag_Deseja_Receber_Mais_Informacoes;
+if (Flag_Deseja_Receber_Mais_Informacoes){
+Enviar_Mais_Informacoes();
+}
