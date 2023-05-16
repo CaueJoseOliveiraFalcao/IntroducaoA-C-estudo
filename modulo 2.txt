@@ -1,0 +1,18 @@
+Tipos de dados
+
+Desde sua concepção, a linguagem C possui quatro tipos de dados básicos:
+
+char = string
+int = numero inteiro
+float = numero decimal
+double = true false
+
+A variável é um tipo de espaço de memória que pode ser alterado a qualquer tempo.
+
+Dados = um valor sem um contexto estabelecido 
+Informação = Um dado com uma contextualização
+
+recusividade = uma funçaõ chamar ela mesma
+
+c= a!=b 
+quer dizer que c recebe a-b
