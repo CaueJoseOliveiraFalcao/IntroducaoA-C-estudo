@@ -1,0 +1,7 @@
+char escolha;
+escolha = ‘b’;
+escolha = escolha + 1;
+
+resuttado de escolha em C vai ser 'c' 
+%d = inteiro
+%c = char
